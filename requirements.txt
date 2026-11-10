@@ -1,0 +1,5 @@
+mss
+pillow
+pytesseract
+requests
+pynput
